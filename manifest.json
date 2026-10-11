@@ -1,0 +1,9 @@
+{
+  "name": "GaleFusionCompat",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Kesomannen/gale/issues/740",
+  "description": "Makes NynrahGhost-Fusion work in Gale. Writes the mods.yml file Fusion needs, so the game stops closing on launch.",
+  "dependencies": [
+    "Thunderstore-unreal_shimloader-1.1.7"
+  ]
+}
