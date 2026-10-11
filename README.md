@@ -1,5 +1,7 @@
 # GaleFusionCompat
 
+Grab on [Thunderstore](https://thunderstore.io/c/voices-of-the-void/p/GoTeamAlex/GaleFusionCompat/).
+
 Fixes Voices of the Void closing right after launch when you use **NynrahGhost-Fusion** with the **Gale** mod manager. The same mods work in r2modman.
 
 ## The problem
